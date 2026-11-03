@@ -26,5 +26,5 @@ Adding semantic search (embeddings and ChromaDB) to AI-Resume-Matcher, and study
 
 ## Contact
 
-- LinkedIn: [add link]
-- Email: [add email]
+- LinkedIn: www.linkedin.com/in/sara-khan-ba9852305
+- Email: sarakhan31354@gmail.com
